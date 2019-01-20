@@ -4,4 +4,4 @@ title: Kurse
 permalink: /kurse/
 ---
 
-Kurse
+Kurse a

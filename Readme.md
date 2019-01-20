@@ -15,4 +15,3 @@ When setting up the first time or after changing the Gemfile run `bundler instal
 ## Running
 
 To run the webserver simply `bundle exec jekyll serve`.
-
