@@ -26,6 +26,7 @@ exclude:
   - .jekyll-cache
   - CNAME
   - LICENSE
+  - Readme.md
 
 # Installed Gems
 plugins:
