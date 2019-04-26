@@ -8,9 +8,9 @@ baseurl: ""
 repo: "https://github.com/user/repo"
 email: "email@example.com"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-feature_image: "https://picsum.photos/2560/600?image=958"
+feature_image: "/assets/banner2.png"
 # feature_text: ""
-# feature_text: "Ballettschule Irene Pedrotti"
+feature_text: "Ballettschule Irene Pedrotti"
 
 
 # Jekyll settings
