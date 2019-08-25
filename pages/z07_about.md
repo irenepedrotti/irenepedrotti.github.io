@@ -4,10 +4,7 @@ title: Über mich
 permalink: /about/
 ---
 
-TODO: Bild
-
-TODO:
-Nach zwölfjähriger beruflichen Laufbahn als klassische Balletttänzerin und darauffolgender Umstellung auf die Aufgaben als Mutter, Widmung der Lehrtätigkeit im Bereich Ballettunterricht mit Kinder.
+Nach einer zwölfjähriger beruflichen Laufbahn als klassische Balletttänzerin und darauffolgender Umstellung auf die Aufgaben als Mutter, widmete ich mich der Lehrtätigkeit im Bereich Ballettunterricht mit Kinder.
 
 Gesprochene Sprachen:
 
@@ -21,8 +18,8 @@ Gesprochene Sprachen:
 ### Ausbildung
 
 * **„Master of Advanced Studies in Tanzpädagogik“** *(ZHdK, Abschluss 2011)*
-   * Inhalte: Anatomie Musiktheorie, Tanzgeschichte und Kindertanz
    * Vertiefungsrichtung: Klassisch akademischer Tanz nach A. Vaganova
+   * Zusätzliche Inhalte: Anatomie, Kindertanz, Musiktheorie und Tanzgeschichte
 
 ### Workshops
 
@@ -39,10 +36,10 @@ Gesprochene Sprachen:
 
 ### Engagements
 
-* Bayerisches Staatsballett, München
-* Gast Landestheater, Salzburg
-* Solistin am Nationaltheater, Weimar
-* Basler Ballett, Basel
+* Bayerisches Staatsballett, München (1984–1990)
+* Gast Landestheater, Salzburg (1991)
+* Solistin am Nationaltheater, Weimar (1992)
+* Basler Ballett, Basel (1993–1996)
 
 ### Rollen
 

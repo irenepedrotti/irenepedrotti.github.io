@@ -19,8 +19,12 @@ Folgende Kurse sind ausgebucht:
 
 ## Philosophie
 
-TODO:
-Nicht nur die Geschmeidigkeit des Körpers wird entwickelt, auch zur Verbesserung des Atmens und der Durchblutung ist das klassische Tanztraining ein gutes Mittel. Das wird heute zunehmend auch von Leistungssportlern erkannt.
+Das klassische Ballett ist eine Form des Tanzes, welche sich, im Zusammenhang mit der typischen “Auswärtsstellung” sowie mit vielfältigen spezifischen anatomischen Anforderungen und beim Spitzentanz einer strikten reglementierten Technik bedient. Es handelt sich um eine Ausdrucksform, bei der diese Technik als Grundlage bzw. Sprungbrett für den künstlerischen Ausdruck dient, wobei dieses Zusammenspiel erst im harmonischen Verschmelzen mit der Musik seine Vollkommenheit erreicht.
+
+Neben der Förderung von Haltung und Körperbeherrschung, Koordination, Flexibilität und des Musikbewusstseins sehe ich den Kinder Ballett Unterricht auch als stärkende Auswirkung auf das persönliche Selbstvertrauen.
+
+Wird die Leidenschaft der Körperbeherrschung im Ballett entdeckt, ist Disziplin als Nebeneffekt selbstverständlich.  Ein angenehmes Unterrichtsklima mit respektvollen Umgang, sowie eine Vertrauensbasis und Aufmerksamkeit den Schülern gegenüber ist mir wichtig.
+
 
 ## Wo weiter?
 

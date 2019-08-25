@@ -10,7 +10,7 @@ Die Kinder sollten pünktlich, bereits frisiert und in der erforderlichen Kleidu
 
 Mädchen welche längeres Haar haben, müssen mit einem Dutt frisiert zum Unterricht erscheinen. Bei kurzen Haaren wird ein breites Haarband angezogen.
 
-Eine Anleitung zum frisieren finden sie unter anderem auch [TODO auf YouTube](youtu.be).
+Eine Anleitung zum frisieren finden sie unter anderem auch [auf YouTube](https://www.youtube.com/watch?v=9tP-7IIWRp8).
 
 ### Ballettkleidung
 
@@ -22,7 +22,7 @@ Mädchen auf allen Stufen tragen rosa Schläppchen, und Flash farbene Strumpfhos
 
 | Stufe         |   Trikot                      |
 | :------------ | :---------------------------- |
-| Pre-Ballett   | Rosa Trikot Viccard TN 302    |
-| Kinderballett | Blaues Trikot Viccard         |
-| Ballett I     | Rotes Trikot (ab Sommer 2019) |
-| Ballett II    | Schwarzes und weisses Trikot  |
+| Pre-Ballett   | Rosa Trikot, Viccard TN 302    |
+| Kinderballett | Blaues Trikot, Viccard TN 16 (Bleu-Royal)        |
+| Ballett I     | Rotes Trikot, Viccard TN 16 (Geranium)|
+| Ballett II    | Schwarzes und weisses Trikot, Viccard Carine J35 (weiss doublée)  |
