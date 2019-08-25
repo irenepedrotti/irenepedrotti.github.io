@@ -4,7 +4,7 @@ title: Über mich
 permalink: /about/
 ---
 
-Nach einer zwölfjähriger beruflichen Laufbahn als klassische Balletttänzerin und darauffolgender Umstellung auf die Aufgaben als Mutter, widmete ich mich der Lehrtätigkeit im Bereich Ballettunterricht mit Kinder.
+Nach einer zwölfjährigen beruflichen Laufbahn als klassische Balletttänzerin und darauffolgender Umstellung auf die Aufgaben als Mutter, widmete ich mich der Lehrtätigkeit im Bereich Ballettunterricht mit Kinder.
 
 Gesprochene Sprachen:
 
