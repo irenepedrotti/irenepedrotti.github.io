@@ -4,7 +4,7 @@ title: Studio
 permalink: /studio/
 ---
 
-Die Kurse werden im [Studio Movimento](www.movimento-basel.ch) gehalten.
+Die Kurse werden im [Studio Movimento](https://www.movimento-basel.ch) gehalten.
 
 [Studio Movimento \\
 Neuweilerstrasse 5 \\
