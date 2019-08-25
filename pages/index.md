@@ -8,7 +8,14 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti!
 
 ## Aktuelles
 
-Im Moment gibt es keine Mitteilungen.
+Bei genügend Anmeldungen ist ein neuer Pre-Ballett 1 Einsteigerkurs geplant, voraussichtlich am Donnerstag um 14 Uhr. Bei Interesse setzen sie ich mit mir in Kontakt.
+
+---
+
+Folgende Kurse sind ausgebucht:
+* Mittwoch 15 Uhr
+* Donnerstag 15 Uhr
+* Freitag 15:10 Uhr
 
 ## Philosophie
 
