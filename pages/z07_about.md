@@ -4,46 +4,47 @@ title: Über mich
 permalink: /about/
 ---
 
-### Pädagogische Erfahrung
+TODO: Bild
 
+TODO:
 Nach zwölfjähriger beruflichen Laufbahn als klassische Balletttänzerin und darauffolgender Umstellung auf die Aufgaben als Mutter, Widmung der Lehrtätigkeit im Bereich Ballettunterricht mit Kinder.
 
-#### Ausbildung
-
-##### „Master of Advanced Studies in Tanzpädagogik“ *(ZHdK, Abschluss 2011)*
-
-* Inhalte des Studiums: Anatomie Musiktheorie, Tanzgeschichte und Kindertanz
-* Vertiefungsrichtung: Klassisch akademischer Tanz nach A. Vaganova 
-
-#### Workshops
-
-* Leitung der Ballett Workshops mit Einstudierung eigener Choreographien am Conservatoire (CRR St Denis, La Réunion) 2015 und 2016
-* Verschiedene Lehrerfahrungen während Tänzerkarriere (u.a. Paris)
-
-#### Gesprochene Sprachen:
+Gesprochene Sprachen:
 
 * Deutsch
 * Italienisch
 * Englisch
 * Französisch
 
-## Karriere als Klassische Ballett Tänzerin
+## Pädagogische Erfahrung
 
-#### Ausbildung
+### Ausbildung
 
-##### Musikhochschule in München *(Bosel Stiftung)*
+* **„Master of Advanced Studies in Tanzpädagogik“** *(ZHdK, Abschluss 2011)*
+   * Inhalte: Anatomie Musiktheorie, Tanzgeschichte und Kindertanz
+   * Vertiefungsrichtung: Klassisch akademischer Tanz nach A. Vaganova
 
-* Abschluss mit Bestnoten (Professionelle, staatlich geprüfte Ballett-Tänzerin)
-* Unterricht bei international bekannten Lehrern u.a. Olga Lepeschinskaja (Russische Ballett Pädagogin, ehem. Solistin am Bolshoi Theater, Moskau)
+### Workshops
 
-#### Engagements
+* Leitung der Ballett Workshops mit Einstudierung eigener Choreographien am Conservatoire (CRR St Denis, La Réunion) 2015 und 2016
+* Verschiedene Lehrerfahrungen während Tänzerkarriere (u.a. Paris)
 
-* Bayerisches Staatsballett München
-* Gast Landestheater Salzburg
-* Solistin am Nationaltheater Weimar
-* Basler Ballett
+## Karriere als Klassische Tänzerin
 
-#### Rollen
+### Ausbildung
+
+* **Musikhochschule in München** *(Bosel Stiftung)*
+   * Abschluss mit Bestnoten (Professionelle, staatlich geprüfte Ballett-Tänzerin)
+   * Unterricht bei international bekannten Lehrern u.a. Olga Lepeschinskaja (Russische Ballett Pädagogin, ehem. Solistin am Bolshoi Theater, Moskau)
+
+### Engagements
+
+* Bayerisches Staatsballett, München
+* Gast Landestheater, Salzburg
+* Solistin am Nationaltheater, Weimar
+* Basler Ballett, Basel
+
+### Rollen
 
 Zahlreiche Solo Rollen von weltbekannten Choreographen, und Gastspielen weltweit
 u.a:
@@ -68,7 +69,7 @@ u.a:
 * Le Rouge et le Noir, pas de quatre
 * Dornröschen, Die letzte Zarentochter, Schwester von Anastasia
 
-#### Anderes
+### Anderes
 
 Fortbildung bei russischen und französischen Lehrern - unter anderen
 Yves Cassati, Pariser Staatsoper und Gerard Wilk, Béjart.  
