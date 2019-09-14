@@ -17,6 +17,8 @@ Folgende Kurse sind ausgebucht:
 * Donnerstag 15 Uhr
 * Freitag 15:10 Uhr
 
+---
+
 ## Philosophie
 
 Das klassische Ballett ist eine Form des Tanzes, welche sich, im Zusammenhang mit der typischen “Auswärtsstellung” sowie mit vielfältigen spezifischen anatomischen Anforderungen und beim Spitzentanz einer strikten reglementierten Technik bedient. Es handelt sich um eine Ausdrucksform, bei der diese Technik als Grundlage bzw. Sprungbrett für den künstlerischen Ausdruck dient, wobei dieses Zusammenspiel erst im harmonischen Verschmelzen mit der Musik seine Vollkommenheit erreicht.
@@ -32,4 +34,6 @@ Die Kurszeiten und eine kurze Beschreibung der Niveaus finden sie unter [Kurse](
 
 Falls sie mehr über mich erfahren wollen, finden sie hier meinen [Lebenslauf](/about).
 
-Das Einschreibeformular finden sie unter [Einschreibung](/einschreiben). Für Eltern gibt es noch [Infos](/infos) und den Anfahrtsplan unter [Studio](/studio).
+Das Einschreibeformular mit Preisen und Reglement finden sie unter [Einschreibung](/einschreiben).
+
+Für Eltern meiner Schüler gibt es noch [Infos](/infos) und den Anfahrtsplan unter [Studio](/studio).
