@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Willkommen auf der Seite der Ballettschule von Irene Pedrotti!
+Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuelles
 

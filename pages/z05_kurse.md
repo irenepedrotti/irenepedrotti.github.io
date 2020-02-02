@@ -24,7 +24,7 @@ Ab ca. 8. Jahren und nach Einführung im Pre-Ballet wird die Grundtechnik erlern
 * Mittwoch 15:00 Uhr, 60 min Lektion (ab 8 Jahren)
 * Freitag 16:00 Uhr, 75 min Lektion (ab 10 Jahren)
 
-Hier ist auch Konzentration erforderlich, Details werden wichtig.
+Hier ist auch Konzentration erforderlich, Details werden wichtig. Ein zusätzliches Training pro Woche ist empfehlenswert.
 
 ### Ballett I
 
@@ -32,7 +32,7 @@ Dieser Kurs ist ab 11 Jahren nach erreichen der Grundkenntnisse, die Ballett Tec
 
 * Mittwoch 13:45 Uhr, 75 min Lektion
 
-Bei dieser Stufe ist ein zusätzliches Training pro Woche empfehlenswert.
+Bei dieser Stufe ist ein zusätzliches Training pro Woche üblich.
 
 ### Ballett II
 
