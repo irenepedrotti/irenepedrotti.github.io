@@ -9,7 +9,8 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 ## Aktuelles
 Update 13.03.2020: **Mitteilung Aufgrund des Corona Virus**
 
-**Aufgrund der Entscheidung des Bundes die öffentlichen Schulen bis zu den Frühlingsferien zu schliessen findet ab Montag 16.03.2020 kein Ballettunterricht statt.** 
+**Aufgrund der
+Schliessung der öffentlichen Schulen findet ab Montag 16.03.2020 bis zu den Frühlingsferien kein Ballettunterricht statt.** 
 
 
 
