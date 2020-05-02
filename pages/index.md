@@ -9,7 +9,7 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 ## Aktuelles
 Update 02.05.2020: **Mitteilung Aufgrund des Corona Virus**
 
-**Über den Zeitpunkt der Wiedereröffnung von Tanzschulen ist leider im Moment noch keine Verbindliche Aussage möglich, dies unabhängig ob die obligatorische Schule wieder aufgenommen wird. Bis auf weiteres findet kein Ballettunterricht statt.**
+**Über den Zeitpunkt der Wiedereröffnung von Tanzschulen ist leider im Moment noch keine verbindliche Aussage möglich, dies unabhängig ob die obligatorische Schule wieder aufgenommen wird. Bis auf weiteres findet kein Ballettunterricht statt.**
 
 
 
