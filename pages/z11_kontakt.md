@@ -4,14 +4,14 @@ title: Studio
 permalink: /studio/
 ---
 
-Neu werden die Ballett Kurse ab August im Tanz Studio Semiramis gehalten.
+Neu werden die meisten Ballett Kurse im Tanz Studio Semiramis gehalten.
 
 Studio Semiramis / Spalentorweg 20/ 4051 Basel
 
 Sie erreichen das Tanz Studio Semiramis mit der Tram 3, Bus 30 und 33 bis Station Spalentor.
 
 
-Bis Ende Juni werden die Kurse noch im [Studio Movimento](https://www.movimento-basel.ch) gehalten.
+Bis Ende Juni wird der Montag Kurs noch im [Studio Movimento](https://www.movimento-basel.ch) gehalten.
 
 [Studio Movimento \\
 Neuweilerstrasse 5 \\
