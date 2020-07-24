@@ -28,7 +28,7 @@ Hier ist auch Konzentration erforderlich, Details werden wichtig. Ein zusätzlic
 
 ### Ballett I
 
-Dieser Kurs ist ab 11 Jahren nach erreichen der Grundkenntnisse, die Ballett Technik wird vertieft.
+Dieser Kurs ist ab 12 Jahren nach erreichen der Grundkenntnisse, die Ballett Technik wird vertieft.
 
 * Mittwoch 14:00 Uhr, 75 min Lektion
 
