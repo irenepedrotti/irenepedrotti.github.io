@@ -20,7 +20,7 @@ Wir sind weiterhin bemüht die Hygiene und Schutzmassnahmen zu befolgen.
 
 ---
 
- Freie Plätze für Pre-Ballett Einsteigerkurs. Donnerstag 15 Uhr ab August 2020. Bei Interesse setzen Sie sich bitte mit mir in Kontakt.
+ Freie Plätze für Pre-Ballet Einsteigerkurs. Donnerstag 15 Uhr ab August 2020. Bei Interesse setzen Sie sich bitte mit mir in Kontakt.
 
 ---
 
