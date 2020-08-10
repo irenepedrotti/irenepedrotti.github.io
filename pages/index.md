@@ -8,10 +8,8 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuelles
 
-Schöne Sommerferien!
-Der Ballett Unterricht beginnt ab 10. August 2020.
+Der Unterricht findet ab 10. August statt.
 
-Update 11.06.2020:
 Wir sind weiterhin bemüht die Hygiene und Schutzmassnahmen zu befolgen.
 
 **Danke für die Mithilfe**
