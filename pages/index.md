@@ -12,10 +12,10 @@ Wir sind weiterhin bemüht die Hygiene und Schutzmassnahmen zu befolgen.
 
 **Danke für die Mithilfe**
 
-
 ---
 
- Freie Plätze für Pre-Ballet Einsteigerkurs. Donnerstag 15 Uhr Bei Interesse setzen Sie sich bitte mit mir in Kontakt.
+ Neu: freie Plätze für Pre-Ballet Einsteigerkurs am Donnerstag.
+ Bei Interesse setzen Sie sich bitte mit mir in Kontakt.
 
 ---
 
