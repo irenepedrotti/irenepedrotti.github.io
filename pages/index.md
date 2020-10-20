@@ -8,7 +8,7 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuelles
 
-Wir sind weiterhin bemüht die Hygiene und Schutzmassnahmen zu befolgen.
+Ab 19.Oktober 2020 herrscht in allen öffentlich zugänglichen Räumen, wie Eingang und Garderobe Maskenpflicht. Von dieser Pflicht ausgenommen sind Schüler der Primarschulen und Kindergärten. Während des Unterrichts kann auf Masken hingegen verzichtet werden. Die Hygiene und Schutzmassnahmen werden weiterhin befolgt, sowie das Contact Tracing sichergestellt.
 
 **Danke für die Mithilfe**
 
