@@ -7,8 +7,7 @@ permalink: /
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuelles: Verordnung Bund
-Ab dem 29. Oktober 2020 gilt schweizweit Maskenpflicht an Tanzschulen. Zudem ist die Teilnehmerzahl auf 15 Personen beschränkt und es muss wie bis anhin eine Distanz von 1.5 m zwischen den Kursteilnehmer eingehalten werden. In grösseren Räumlichkeiten kann auf das Tragen von Masken verzichtet werden, sofern mindestes 15m2 pro Personen zur Verfügung stehen. Von diesen Regelungen ausgenommen sind Kinder und Jugendliche bis zum 16. Lebensjahr. Für diese gelten keine Einschränkungen bei der Ausübung von sportlichen Aktvitäten**
-Da die Abklärung noch läuft, ob in Basel Stadt die Maskenpflicht ab 12 Jahren besteht, halten wir uns im Moment an 12 Jahren.
+Ab dem 29. Oktober 2020 gilt schweizweit Maskenpflicht an Tanzschulen. Zudem ist die Teilnehmerzahl auf 15 Personen beschränkt und es muss wie bis anhin eine Distanz von 1.5 m zwischen den Kursteilnehmer eingehalten werden. In grösseren Räumlichkeiten kann auf das Tragen von Masken verzichtet werden, sofern mindestes 15m2 pro Personen zur Verfügung stehen. Von diesen Regelungen ausgenommen sind Kinder und Jugendliche bis zum 16. Lebensjahr. Für diese gelten keine Einschränkungen bei der Ausübung von sportlichen Aktvitäten.
 
 **Danke für die Mithilfe**
 
