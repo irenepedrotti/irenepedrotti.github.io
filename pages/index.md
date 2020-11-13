@@ -6,7 +6,7 @@ permalink: /
 
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
-## Aktuelle Massnahmen Kanton Basel Stadt
+## Aktuelle Massnahmen Covid 19
 Sportliche und kulturelle Freizeitaktivitäten sind in Innenräumen mit bis zu 15 Personen erlaubt, wenn sowohl genügend Abstand eingehalten werden kann als auch Masken getragen werden.
 Von dieser Regelung ausgenommen sind Kinder unter 12 Jahren.
 
