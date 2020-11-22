@@ -6,11 +6,8 @@ permalink: /
 
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
-## Aktuelle Massnahmen Covid 19
-Sportliche und kulturelle Freizeitaktivitäten sind in Innenräumen mit bis zu 15 Personen erlaubt, wenn sowohl genügend Abstand eingehalten werden kann als auch Masken getragen werden.
-Von dieser Regelung ausgenommen sind Kinder unter 12 Jahren.
-
-**Danke für die Mithilfe**
+## Aktuell
+Tanzschulen sind vom 23. November bis voraussichtlich 13. Dezember 2020 geschlossen.
 
 ---
 
