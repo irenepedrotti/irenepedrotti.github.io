@@ -7,7 +7,8 @@ permalink: /
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuell
-Tanzschulen sind vom 23. November bis voraussichtlich 13. Dezember 2020 geschlossen.
+Die Massnahmen der Schliessung der Tanzschulen wurde verlängert und dauert somit bis zum 20. Dezember 2020. Dies bedeutet, dass kein Unterricht vor den Weihnachtsferien mehr möglich ist.
+Ich wünsche allen gute Gesundheit, schöne Weihnachten und ein gutes Neues Jahr!
 
 ---
 
