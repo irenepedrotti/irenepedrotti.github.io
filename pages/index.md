@@ -7,8 +7,7 @@ permalink: /
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuell
-Die Tanzschulen bleiben voraussichtlich bis 22. Januar 2021 geschlossen.
-Ich wünsche ein gutes Neues Jahr!
+Die Tanzschulen bleiben voraussichtlich bis Ende Februar 2021 geschlossen. Ausdauer ist gefragt. Ich wünsche allen gute Gesundheit.
 
 ---
 
