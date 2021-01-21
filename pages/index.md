@@ -7,7 +7,8 @@ permalink: /
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuell
-Die Tanzschulen bleiben für Kurse mit Schülern ab 16 Jahren voraussichtlich bis Ende Februar 2021 geschlossen. Für Schüler unter 16 Jahren bleiben die Tanzschulen im Kanton Basel Stadt vorerst bis 22. Januar 2021 geschlossen. Ich wünsche allen gute Gesundheit.
+Für Schüler unter 16 Jahren darf der Ballett Unterricht ab 23. Januar 2021 mit bis zu 15 Teilnehmern wieder stattfinden. Am Mittwoch 27.01.21 wird der Unterricht beginnen.
+Die Kurse mit Schülern ab 16 Jahren dürfen voraussichtlich bis Ende Februar 2021 nicht stattfinden.
 
 ---
 
