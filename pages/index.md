@@ -7,8 +7,7 @@ permalink: /
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ## Aktuell
-Für Schüler unter 16 Jahren darf der Ballett Unterricht ab 23. Januar 2021 mit bis zu 15 Teilnehmern wieder stattfinden. Am Mittwoch 27.01.21 wird der Unterricht beginnen.
-Die Kurse mit Schülern ab 16 Jahren dürfen voraussichtlich bis Ende Februar 2021 nicht stattfinden.
+Ab 1. März 2021 werden alle Kurse durchgeführt.
 
 ---
 
