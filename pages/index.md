@@ -6,8 +6,6 @@ permalink: /
 
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
-## Aktuell
-Ab 1. März 2021 werden alle Kurse durchgeführt.
 
 ---
 
