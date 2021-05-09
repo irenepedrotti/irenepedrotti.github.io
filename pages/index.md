@@ -15,10 +15,6 @@ Es findet kein Ballett Unterricht am Freitag 14. Mai statt.
 Ich wünsche allen ein schönes verlängertes Wochenende!
 
 ---
- Neu: freie Plätze für Pre-Ballet Einsteigerkurs am Donnerstag.
- Bei Interesse setzen Sie sich bitte mit mir in Kontakt.
-
----
 
 ## Philosophie
 
