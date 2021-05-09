@@ -4,7 +4,7 @@ title: Studio
 permalink: /studio/
 ---
 
-Die Ballett Kurse werden im Tanz Studio Semiramis gehalten.
+Die Ballett Kurse werden im [Tanz Studio Semiramis](http://www.tanzstudio-semiramis.ch/index.html) gehalten.
 
 Studio Semiramis \
 Spalentorweg 20 \
