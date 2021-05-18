@@ -8,11 +8,7 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 
 ---
-Aktuell: Auffahrtsbrücke!
-
-Es findet kein Ballett Unterricht am Freitag 14. Mai statt.
-
-Ich wünsche allen ein schönes verlängertes Wochenende!
+Aktuell: Bitte, sobald wie möglich die neuen Stundenpläne der Schule durchgeben!
 
 ---
 
