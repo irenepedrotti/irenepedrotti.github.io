@@ -8,7 +8,7 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 
 ---
-Aktuell: Bitte, sobald wie möglich die neuen Stundenpläne der Schule durchgeben!
+Aktuell: Bitte, sobald wie möglich, die neuen Stundenpläne der Schule durchgeben!
 
 ---
 
