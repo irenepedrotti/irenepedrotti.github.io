@@ -27,6 +27,6 @@ Die Kurszeiten und eine kurze Beschreibung der Niveaus finden sie unter [Kurse](
 
 Falls sie mehr über mich erfahren wollen, finden sie hier meinen [Lebenslauf](/about).
 
-Das Einschreibeformular mit Preisen und Reglement finden sie unter [Einschreibung](/einschreiben).
+Das Anmeldeformular mit Preisen und Reglement finden sie unter [Anmeldung](/anmeldung).
 
 Für Eltern meiner Schüler gibt es noch [Infos](/infos) und den Anfahrtsplan unter [Studio](/studio).

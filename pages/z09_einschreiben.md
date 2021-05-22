@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Einschreibung
-permalink: /einschreiben/
+title: Anmeldung
+permalink: /anmeldung/
 ---
 
 Das Anmeldeformular finden sie [hier](/assets/AnmeldeFormular.pdf).
