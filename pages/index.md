@@ -8,7 +8,9 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 
 ---
-Aktuell: Bitte, sobald wie möglich, die neuen Stundenpläne der Schule durchgeben!
+
+Ich wünsche allen eine erholsame Sommerpause.
+Die Ballett Kurse beginnen ab Montag dem 16. August 2021, in der ersten Schulwoche. 
 
 ---
 

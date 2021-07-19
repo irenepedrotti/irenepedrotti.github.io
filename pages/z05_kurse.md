@@ -10,9 +10,8 @@ Es werden Kurse für verschiedene Leistungs- und Altersniveaus angeboten. Beim E
 
 Die Pre-Ballet Kurse sind Einsteigerkurse für Kinder ab 4 bis ca. 8 Jahre und sind als Vorstufe zum Klassischen Ballett gedacht.
 
-* Donnerstag 15:00 Uhr, 50 min Lektion (Pre-Ballet 1)
-* Freitag 15:20 Uhr, 60 min Lektion (Pre-Ballet 2)
-* Donnerstag 16:00 Uhr, 60 min Lektion (Pre-Ballet 3)
+* Donnerstag 15:15 Uhr, 60 min Lektion ab 5 Jahren
+* Freitag 16:00 Uhr, 60 min Lektion ab 7 Jahren
 
 Der Schwerpunkt liegt die Aufmerksamkeit auf die Musik zu legen und gleichzeitig den Körper auf den Ballett Unterricht optimal vorzubereiten. Für Haltung und Koordination wird der Grundstein gelegt. Auch das Erarbeiten von Feinheiten, welche die Kinder im Ballettunterricht brauchen wird hier angelegt. Empfindungen mittels Bewegung zur Musik einfliessen zu lassen gehört dazu.
 Der Unterricht ist noch spielerisch, das Kind wird im Laufe der drei Jahre langsam an längere Konzentrationsphasen herangeführt.
@@ -21,27 +20,21 @@ Der Unterricht ist noch spielerisch, das Kind wird im Laufe der drei Jahre langs
 
 Ab ca. 8. Jahren und nach Einführung im Pre-Ballet wird die Grundtechnik erlernt.
 
-* Mittwoch 15:20 Uhr, 60 min Lektion (ab 8 Jahren)
-* Freitag 16:30 Uhr, 75 min Lektion (ab 10 Jahren)
+* Mittwoch 15:15 Uhr, 75 min Lektion (ab 10 Jahren)
+* Freitag 17:00 Uhr, 75 min Lektion (ab 9 Jahren)
 
 Hier ist auch Konzentration erforderlich, Details werden wichtig. Ein zusätzliches Training pro Woche ist empfehlenswert.
 
-### Ballett I
+### Ballett I und Ballett II
 
-Dieser Kurs ist ab 12 Jahren nach erreichen der Grundkenntnisse, die Ballett Technik wird vertieft.
+Diese Kurse sind ab 12 Jahren, nach erreichen der Grundkenntnisse. Die Ballett Technik wird vertieft und erweitert.
 
-* Mittwoch 14:00 Uhr, 75 min Lektion
+Ein zusätzliches Training pro Woche ist üblich.
 
-Bei dieser Stufe ist ein zusätzliches Training pro Woche üblich.
+* Montag 16:45 Uhr, 90 min Lektion (Für Ballett I und II)
+* Mittwoch 16:30 Uhr, 90 min Lektion (Für Ballett I und II)
+* Freitag 18:15 Uhr, 90 min Lektion (Für Ballett I und II)
 
-### Ballett II
-
-Aufbauend auf dem Ballett I, wird das Ballett II angeboten.
-
-* Montag 16:40 Uhr, 90 min Lektion
-* Mittwoch 16:25 Uhr, 90 min Lektion
-* Freitag 17:55 Uhr, 90 min Lektion (Für Ballett I und II)
-
-In dieser Stufe kommen Jugendliche und junge Erwachsene mehrmals pro Woche.
+Bei der Stufe Ballett II kommen Jugendliche und junge Erwachsene mehrmals pro Woche.
 Die Ballett Technik ist Fortgeschrittener. Kenntnisse eines kompletten Trainings inklusive Epaulements mit Kopfhaltung sind Voraussetzung.
-In dieser Stufe kann der Spitzentanz abhängig von Disposition, Stabilität der Muskulatur und Balletterfahrung eingeführt und erlernt werden.
+Auch kann in dieser Stufe der Spitzentanz abhängig von Disposition, Stabilität der Muskulatur und Balletterfahrung eingeführt und erlernt werden.
