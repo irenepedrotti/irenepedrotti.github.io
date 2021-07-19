@@ -8,7 +8,7 @@ Es werden Kurse für verschiedene Leistungs- und Altersniveaus angeboten. Beim E
 
 ### Pre-Ballet
 
-Die Pre-Ballet Kurse sind Einsteigerkurse für Kinder ab 4 bis ca. 8 Jahre und sind als Vorstufe zum Klassischen Ballett gedacht.
+Die Pre-Ballet Kurse sind Einsteigerkurse für Kinder ab ca. 4 bis 8 Jahre und sind als Vorstufe zum Klassischen Ballett gedacht.
 
 * Donnerstag 15:15 Uhr, 60 min Lektion ab 5 Jahren
 * Freitag 16:00 Uhr, 60 min Lektion ab 7 Jahren
