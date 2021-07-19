@@ -27,14 +27,13 @@ Hier ist auch Konzentration erforderlich, Details werden wichtig. Ein zusätzlic
 
 ### Ballett I und Ballett II
 
-Diese Kurse sind ab 12 Jahren, nach erreichen der Grundkenntnisse. Die Ballett Technik wird vertieft und erweitert.
+Diese Kurse sind ab 12 Jahren, nach erreichen der Grundkenntnisse.
+Die Ballett Technik wird vertieft und erweitert.
 
-Ein zusätzliches Training pro Woche ist üblich.
+* Montag 16:45 Uhr, 90 min Lektion
+* Mittwoch 16:30 Uhr, 90 min Lektion
+* Freitag 18:15 Uhr, 90 min Lektion
 
-* Montag 16:45 Uhr, 90 min Lektion (Für Ballett I und II)
-* Mittwoch 16:30 Uhr, 90 min Lektion (Für Ballett I und II)
-* Freitag 18:15 Uhr, 90 min Lektion (Für Ballett I und II)
-
-Bei der Stufe Ballett II kommen Jugendliche und junge Erwachsene mehrmals pro Woche.
+Ein zusätzliches Training pro Woche ist bei Ballett I üblich, bei Ballett II kommen Jugendliche und junge Erwachsene mehrmals pro Woche.
 Die Ballett Technik ist Fortgeschrittener. Kenntnisse eines kompletten Trainings inklusive Epaulements mit Kopfhaltung sind Voraussetzung.
-Auch kann in dieser Stufe der Spitzentanz abhängig von Disposition, Stabilität der Muskulatur und Balletterfahrung eingeführt und erlernt werden.
+Auch kann bei Ballett II der Spitzentanz abhängig von Disposition, Stabilität der Muskulatur und Balletterfahrung eingeführt und erlernt werden.
