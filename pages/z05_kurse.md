@@ -35,5 +35,5 @@ Die Ballett Technik wird vertieft und erweitert.
 * Freitag 18:15 Uhr, 90 min Lektion
 
 Ein zusätzliches Training pro Woche ist bei Ballett I üblich, bei Ballett II kommen Jugendliche und junge Erwachsene mehrmals pro Woche.
-Zusätzlich ist bei Ballett II die Ballett Technik Fortgeschrittener. Kenntnisse eines kompletten Trainings inklusive Epaulements mit Kopfhaltung sind Voraussetzung.
-Auch kann bei Ballett II der Spitzentanz abhängig von Disposition, Stabilität der Muskulatur und Balletterfahrung eingeführt und erlernt werden.
+Zudem ist bei Ballett II die Ballett Technik Fortgeschrittener. Kenntnisse eines kompletten Trainings, inklusive Epaulements mit Kopfhaltung sind Voraussetzung.
+Bei Ballett II kann der Spitzentanz, abhängig von Disposition, Stabilität der Muskulatur und Balletterfahrung erlernt werden.

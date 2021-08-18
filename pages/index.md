@@ -9,11 +9,6 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ---
 
-Ich wünsche allen eine erholsame Sommerpause.
-Die Ballett Kurse beginnen ab Montag dem 16. August 2021, in der ersten Schulwoche. 
-
----
-
 ## Philosophie
 
 Das klassische Ballett ist eine Form des Tanzes, welche sich, im Zusammenhang mit der typischen “Auswärtsstellung” sowie mit vielfältigen spezifischen anatomischen Anforderungen und beim Spitzentanz einer strikten reglementierten Technik bedient. Es handelt sich um eine Ausdrucksform, bei der diese Technik als Grundlage bzw. Sprungbrett für den künstlerischen Ausdruck dient, wobei dieses Zusammenspiel erst im harmonischen Verschmelzen mit der Musik seine Vollkommenheit erreicht.
