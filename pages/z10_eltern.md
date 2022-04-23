@@ -21,9 +21,9 @@ Bei kalter Jahreszeit können ein Ballett Jäckchen und Stulpen angezogen werden
 
 | Stufe         |   Trikot                      |
 | :------------ | :---------------------------- |
-| Pre-Ballett   | Rosa Trikot, Vicard TN 302    |
+| Pre-Ballett   | Rosa Trikot, Eurotard 10467 (Pink)  |
 | Kinderballett | Blaues Trikot, Vicard TN 16 (Bleu-Royal)        |
-| Ballett I     | Rotes Trikot, Vicard TN 16 (Geranium)|
+| Ballett I     | Rotes Trikot, Vicard TN 16 (Rouge)|
 | Ballett II    | Schwarzes und weisses Trikot, Vicard Carine J35 (weiss doublée)  |
 
 Für Jungs gibt es eine schwarze Ballettstrumpfhose, ein weisses T-Shirt und schwarze Ballett Schläppchen.
