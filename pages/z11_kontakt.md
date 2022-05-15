@@ -4,7 +4,7 @@ title: Studio
 permalink: /studio/
 ---
 
-Die Ballett Kurse werden im ehemaligen [Tanz Studio Semiramis](http://www.tanzstudio-semiramis.ch/index.html) gehalten, welches sich nun Danceworks nennt und von Jessica Billeter und mir geleitet wird.
+Die Ballett Kurse werden im [Tanzstudio Danceworks](https://danceworks.ch) gehalten.
 
 Studio Danceworks \
 Spalentorweg 20 \
