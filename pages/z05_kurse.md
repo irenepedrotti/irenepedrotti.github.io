@@ -12,7 +12,6 @@ Die Pre-Ballet Kurse sind Einsteigerkurse für Kinder ab ca. 4 bis 8 Jahre und s
 
 * Donnerstag 16:00 Uhr, 60 min Lektion ab 5 Jahren
 
-
 Der Schwerpunkt liegt die Aufmerksamkeit auf die Musik zu legen und gleichzeitig den Körper auf den Ballett Unterricht optimal vorzubereiten. Für Haltung und Koordination wird der Grundstein gelegt. Auch das Erarbeiten von Feinheiten, welche die Kinder im Ballettunterricht brauchen wird hier angelegt. Empfindungen mittels Bewegung zur Musik einfliessen zu lassen gehört dazu.
 Der Unterricht ist noch spielerisch, das Kind wird im Laufe der drei Jahre langsam an längere Konzentrationsphasen herangeführt.
 
