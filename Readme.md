@@ -1,8 +1,12 @@
 # Ballet Website
 
-## Pre-setup
+## Development pre-setup with nix
 
-Ruby development is best done with rbenv. Make sure you install it (see <https://github.com/rbenv/rbenv>) and the most recent ruby.
+In the directory run nix-shell.
+
+## Development pre-setup without nix
+
+Install rbenv (see <https://github.com/rbenv/rbenv>) and with that the most recent ruby.
 
 ## Setup
 
