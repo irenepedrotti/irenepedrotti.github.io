@@ -6,7 +6,7 @@ permalink: /
 
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
-Freie Plätze ab August, Donnerstag 16:00 Uhr im Einsteigerkurs ab 6 Jahren. Probelektion am 24. August 2023. Bitte um Anmeldung, per Mail oder Telefon.
+Freie Plätze ab August, Donnerstag 16:00 Uhr, Einsteigerkurs ab 6 Jahren. Probelektion am 24. August 2023. Bitte um Anmeldung, per Mail oder Telefon.
 
 
 ---
