@@ -8,7 +8,6 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 Neuer Kinder Ballett Einsteigerkurs ab 6 Jahren. Donnerstag 16:00 Uhr, Probelektion am 24. August 2023. Bitte um Anmeldung, per Mail oder Telefon.
 
-
 ---
 
 ## Philosophie
@@ -17,8 +16,7 @@ Das klassische Ballett ist eine Form des Tanzes, welche sich, im Zusammenhang mi
 
 Neben der Förderung von Haltung und Körperbeherrschung, Koordination, Flexibilität und des Musikbewusstseins sehe ich den Kinder Ballett Unterricht auch als stärkende Auswirkung auf das persönliche Selbstvertrauen.
 
-Wird die Leidenschaft der Körperbeherrschung im Ballett entdeckt, ist Disziplin als Nebeneffekt selbstverständlich.  Ein angenehmes Unterrichtsklima mit respektvollen Umgang, sowie eine Vertrauensbasis und Aufmerksamkeit den Schülern gegenüber ist mir wichtig.
-
+Wird die Leidenschaft der Körperbeherrschung im Ballett entdeckt, ist Disziplin als Nebeneffekt selbstverständlich. Ein angenehmes Unterrichtsklima mit respektvollen Umgang, sowie eine Vertrauensbasis und Aufmerksamkeit den Schülern gegenüber ist mir wichtig.
 
 ## Wo weiter?
 

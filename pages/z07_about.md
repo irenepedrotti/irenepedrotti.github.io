@@ -18,8 +18,8 @@ Gesprochene Sprachen:
 ### Ausbildung
 
 * **„Master of Advanced Studies in Tanzpädagogik“** *(ZHdK, Abschluss 2011)*
-   * Vertiefungsrichtung: Klassisch akademischer Tanz nach A. Vaganova
-   * Zusätzliche Inhalte: Anatomie, Kindertanz, Musiktheorie und Tanzgeschichte
+  * Vertiefungsrichtung: Klassisch akademischer Tanz nach A. Vaganova
+  * Zusätzliche Inhalte: Anatomie, Kindertanz, Musiktheorie und Tanzgeschichte
 
 ### Workshops
 
@@ -31,8 +31,8 @@ Gesprochene Sprachen:
 ### Ausbildung
 
 * **Musikhochschule in München** *(Bosel Stiftung)*
-   * Abschluss mit Bestnoten (Professionelle, staatlich geprüfte Ballett-Tänzerin)
-   * Unterricht bei international bekannten Lehrern u.a. Olga Lepeschinskaja (Russische Ballett Pädagogin, ehem. Solistin am Bolshoi Theater, Moskau)
+  * Abschluss mit Bestnoten (Professionelle, staatlich geprüfte Ballett-Tänzerin)
+  * Unterricht bei international bekannten Lehrern u.a. Olga Lepeschinskaja (Russische Ballett Pädagogin, ehem. Solistin am Bolshoi Theater, Moskau)
 
 ### Engagements
 
@@ -71,4 +71,4 @@ u.a:
 Fortbildung bei russischen und französischen Lehrern - unter anderen
 Yves Cassati, Pariser Staatsoper und Gerard Wilk, Béjart.  
 
-**1990 erster Preis am internationalen Wettbewerb in San Remo**
+1990 **erster Preis am internationalen Wettbewerb in San Remo**
