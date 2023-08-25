@@ -8,9 +8,9 @@ Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ---
 
-Am Donnerstag 24. August 2023 findet um 16:00 Uhr eine Probelektion für den neuen Kinder Ballett Einsteigerkurs (ab 6 Jahren) statt. Bitte um Anmeldung, per Mail oder Telefon.
+Ab Donnerstag 24. August 2023 um 16:00 Uhr gibt es die Möglichkeit zu einer Probelektion für den neuen Kinder Ballett Einsteigerkurs (ab 6 Jahren). Bitte um Anmeldung, per Mail oder Telefon.
 
-![Probelektion](/assets/probelektion.png)
+![Probelektion](/assets/Probelektion ab 24.08.23 PNG.png)
 
 ## Philosophie
 
