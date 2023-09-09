@@ -1,25 +1,26 @@
 # Site settings
 encoding: utf-8
 lang: de
-title: "Irene Pedrotti Ballett"
-description: "Ballettschule im Studio Movimento" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Site url, also used in jekyll-seo-tag
+title: "Ballettschule Irene Pedrotti"
+tagline: "Ballettunterricht für Kinder"
+description: |
+  Die Ballettschule von Irene Pedrotti in Basel bietet Ballettunterricht
+  für Kinder in allen Altersstufen an.
+url: "https://www.ballettschule-irenepedrotti.ch/"
 baseurl: ""
-repo: "https://github.com/user/repo"
-email: "email@example.com"
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+repo: "https://github.com/irenepedrotti/irenepedrotti.github.io"
+email: "irene.pedrotti@icloud.com"
+css_inline: true
 feature_image: "/assets/banner2.png"
-# feature_text: ""
 feature_text: "Ballettschule Irene Pedrotti"
-
 
 # Jekyll settings
 markdown: kramdown
 sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/Zurich # Timezone for blog posts and alike
+  style: compressed
+permalink: pretty
+excerpt_separator: <!-- more -->
+timezone: Europe/Zurich
 
 # Files excluded from Jekyll builds
 exclude:
