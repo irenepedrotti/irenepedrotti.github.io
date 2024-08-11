@@ -7,10 +7,10 @@ permalink: /
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
 
 ---
-Warteliste für neuen Kinderballettkurs: Start August 2024, 
+Warteliste für neuen Kinderballettkurs: 
 für Kinder ab 5 Jahren. 
 
-Donnerstags um 16:00 Uhr gibt es die Möglichkeit eine Probelektion für den neuen Kinder Ballett Einsteigerkurs (ab 8 Jahren) zu besuchen. Bitte um Anmeldung, per Mail oder Telefon.
+Probelektion für den neuen Kinder Ballett Einsteigerkurs ab 8 Jahren. Bitte um Anmeldung, per Mail oder Telefon.
 
 ![Probelektion](/assets/Flyer Probelektion.png)
 
