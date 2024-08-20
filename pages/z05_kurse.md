@@ -19,7 +19,7 @@ Der Unterricht ist noch spielerisch, das Kind wird im Laufe der drei Jahre langs
 
 Ab ca. 8. Jahren und nach Einführung im Pre-Ballet wird die Grundtechnik erlernt.
 
-* Mittwoch 16:30 Uhr, 75 min Lektion (ab 12 Jahren)
+* Mittwoch 16:30 Uhr, 90 min Lektion (ab 12 Jahren)
 * Freitag 15:45 Uhr, 75 min Lektion (ab 8 Jahren)
 * Freitag 17:00 Uhr, 75 min Lektion (ab 11 Jahren)
 
