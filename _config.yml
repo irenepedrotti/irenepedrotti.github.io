@@ -33,6 +33,7 @@ exclude:
   - LICENSE
   - Readme.md
   - nix
+  - shell.nix
 
 # Installed Gems
 plugins:
