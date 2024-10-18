@@ -1,5 +1,47 @@
-<div class="feature"{% if site.feature_image %} style="background-image: url({{ site.feature_image }})"{% endif %}>
-  <div class="container  typeset">
-    <h1>{{ site.feature_text }}</h1>
+<div class="slideshow-container">
+  {% for image in site.slideshow_images %}
+    <div class="slides">
+      <img class="slide" src="{{image}}">
+    </div>
+  {% endfor %}
+
+  <div class="slidesnav">
+    {% for slide in site.slideshow_images %}
+      <span class="dot" onclick="showSlide({{ forloop.index0 }})"></span>
+    {% endfor %}
   </div>
 </div>
+
+<script>
+  "use strict";
+  let slideIndex = 0;
+  showSlide(0);
+  setTimeout(carousel, 10000);
+
+  function carousel() {
+    plusSlides(1)
+    setTimeout(carousel, 10000);
+  }
+
+  function plusSlides(n) {
+    showSlide(slideIndex + n);
+  }
+
+  function showSlide(n) {
+    slideIndex = n;
+    let dots = document.getElementsByClassName("dot");
+    let slides = document.getElementsByClassName("slide");
+    if (slideIndex >= slides.length) {
+      slideIndex = 0
+    };
+    if (slideIndex < 0) {
+      slideIndex = slides.length-1
+    };
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+      dots[i].className = dots[i].className.replace(" dot-active", "");
+    }
+    slides[slideIndex].style.display = "block";
+    dots[slideIndex].className += " dot-active";
+  }
+</script>

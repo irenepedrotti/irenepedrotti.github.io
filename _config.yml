@@ -11,6 +11,11 @@ baseurl: ""
 repo: "https://github.com/irenepedrotti/irenepedrotti.github.io"
 email: "irene.pedrotti@icloud.com"
 css_inline: true
+slideshow_images:
+  - "/assets/banner2.png"
+  - "/assets/banner2.png"
+  - "/assets/banner2.png"
+  - "/assets/banner2.png"
 feature_image: "/assets/banner2.png"
 feature_text: "Ballettschule Irene Pedrotti"
 

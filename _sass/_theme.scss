@@ -413,6 +413,38 @@ pre code {
   text-shadow: none;
 }
 
+.slideshow-container {
+  position: relative;
+}
+
+.slidesnav {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 0%);
+  -ms-transform: translate(-50%, 0%);
+  margin-bottom: 12px !important;
+}
+
+.dot {
+  border: 2px solid #ccc !important;
+  color: #000;
+  background-color: #505050 !important;
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+  border-radius: 50%;
+  height: 13px;
+  width: 13px;
+  padding: 0;
+}
+
+.dot-active,
+.dot:hover {
+  color: #000 !important;
+  background-color: #fff !important
+}
 
 // Sassline overrides
 .typeset {
