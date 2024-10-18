@@ -277,7 +277,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 232)
-  jekyll-default-layout
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
