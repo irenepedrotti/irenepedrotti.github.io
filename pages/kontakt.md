@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Studio
-permalink: /studio/
+title: Kontakt
+permalink: /kontakt/
+navbar_order: 5
 ---
 
 Die Ballett Kurse werden im [Tanzstudio Danceworks](https://danceworks.ch) gehalten.

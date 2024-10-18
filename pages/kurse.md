@@ -2,6 +2,7 @@
 layout: page
 title: Kurse
 permalink: /kurse/
+navbar_order: 1
 ---
 
 Es werden Kurse für verschiedene Leistungs- und Altersniveaus angeboten. Beim Einstieg wird das Kind nach einer Probelektion von mir in die passende Gruppe eingeteilt.

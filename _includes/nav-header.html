@@ -1,20 +1,17 @@
-{% if site.navigation_header %}
-<nav class="nav  nav--header">
-  <ul class="list  list--nav">
-    {% for item in site.navigation_header %}
-
-      {% if item[1] contains '://' %}
-        {% assign url = item[1] %}
-      {% else %}
-        {% assign url = item[1] | relative_url %}
+<nav class="nav">
+  <ul class="list list--nav">
+    {% assign sorted_pages = site.html_pages | sort: "navbar_order" %}
+    {% for item in sorted_pages %}
+      {% if item.navbar_order %}
+        <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+          {% if item.url contains '://' %}
+            {% assign url = item.url %}
+          {% else %}
+            {% assign url = item.url | relative_url %}
+          {% endif %}
+          <a href="{{ url }}">{{ item.title }}</a>
+        </li>
       {% endif %}
-
-      <li class="item  item--nav{% if item[1] == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item[0] }}</a>
-      </li>
     {% endfor %}
   </ul>
 </nav>
-{% else %}
-  {% include nav-default.html %}
-{% endif %}

@@ -2,6 +2,7 @@
 layout: page
 title: Über mich
 permalink: /about/
+navbar_order: 2
 ---
 
 Nach einer zwölfjährigen beruflichen Laufbahn als klassische Balletttänzerin und darauffolgender Umstellung auf die Aufgaben als Mutter, widmete ich mich der Lehrtätigkeit im Bereich Ballettunterricht mit Kinder. An der ZHdK absolvierte ich den Master of Advanced Studies in Tanzpädagogik.

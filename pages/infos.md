@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Infos für die Eltern
+title: Infos
 permalink: /infos/
+navbar_order: 3
 ---
 
 Die Kinder sollten pünktlich, bereits frisiert und in der erforderlichen Kleidung zum Unterricht erscheinen.

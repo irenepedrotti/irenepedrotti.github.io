@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Anmeldung
-permalink: /anmeldung/
+title: Galerie
+permalink: /galerie/
+navbar_order: 4
 ---
 
 Das Anmeldeformular finden sie [hier](/assets/AnmeldeFormular.pdf).
