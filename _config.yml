@@ -10,6 +10,7 @@ url: "https://www.ballettschule-irenepedrotti.ch"
 baseurl: ""
 repo: "https://github.com/irenepedrotti/irenepedrotti.github.io"
 email: "irene.pedrotti@icloud.com"
+instagram: "ballettschule_pedrotti"
 css_inline: true
 slideshow_images:
   - "/assets/banner2.png"
