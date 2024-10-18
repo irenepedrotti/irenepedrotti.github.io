@@ -272,6 +272,7 @@ GEM
 PLATFORMS
   x86_64-darwin-17
   x86_64-darwin-22
+  x86_64-darwin-24
   x86_64-linux
 
 DEPENDENCIES
@@ -284,4 +285,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.4.19
+   2.5.16
