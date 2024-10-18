@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 permalink: /
 navbar_order: 0
