@@ -32,6 +32,7 @@ exclude:
   - CNAME
   - LICENSE
   - Readme.md
+  - nix
 
 # Installed Gems
 plugins:
