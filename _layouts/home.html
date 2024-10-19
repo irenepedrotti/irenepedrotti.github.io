@@ -4,15 +4,19 @@ layout: default
 
 {% include site-header.html %}
 
-<main class="main  container">
+<main class="main">
 
-  <article class="article  article--page  content  typeset">
+  {% include header/slideshow.html %}
 
-    <!-- Quote -->
+  <div class="container">
+    <article class="article  article--page  content  typeset">
 
-    {{ content }}
+      <!-- Quote -->
 
-  </article>
+      {{ content }}
+
+    </article>
+  </div>
 
 </main>
 
