@@ -1,12 +1,24 @@
 <footer class="footer">
-  <div class="container">
-    <div class="right">
-      Irene Pedrotti
+  <div class="footer-container">
+    <div>
+      <p>
+        Irene Pedrotti <br>
+        Studio Danceworks <br> <!-- TODO: Link -->
+        Spalentorweg 20 <br>
+        4051 Basel <!-- TODO: Link google maps -->
+      </p>
     </div>
-      <img src="/assets/DS_LOGO_teachers_weiss.png">
+    <div>
+      <p>Im Berufsregister von</p>
+      <img id="dansesuisse" src="/assets/DS_LOGO_teachers_weiss.png">
     </div>
-    <div class="left">
-      <small>Tel: 061 302 51 11 <br> Email: irene.pedrotti@icloud.com</small>
+    <div>
+      <h6>Kontakt</h6>
+      <p>
+        {% include icon.html id="phone" title="tel" %} <a href="tel:{{ site.phone }}">{{ site.phone_human }}</a> <br>
+        {% include icon.html id="email" title="email" %} <a href="mailto:{{ site.email }}">{{ site.email }}</a> <br>
+        {% include icon.html id="instagram" title="instagram" %} <a href="https://www.instagram.com/{{ site.instagram }}">{{ site.instagram }}</a>
+      </p>
     </div>
   </div>
 </footer>

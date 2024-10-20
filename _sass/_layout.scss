@@ -1,7 +1,7 @@
 body {
   background: $backgroundColour;
   color: $bodyColour;
-  height: 100%;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   overflow-x: hidden;
@@ -14,39 +14,11 @@ body {
   position: relative;
 }
 
-.logo {
-  display: inline-block;
-  line-height: 0;
-  max-height: 4rem;
-  align-items: center;
-  img {
-    max-height: 5rem;
-  }
-}
-
-.footer {
-  background: $headingColour;
-  color: $captionColour;
-  a {
-    color: $captionColour;
-    &:hover {
-      color: $backgroundColour;
-    }
-  }
-  .container {
-    flex-wrap: wrap;
-  }
-  .small {
-    padding-top: 0;
-  }
-}
-
-
 // Main content
 
 .main {
   flex-direction: column;
-  flex: 1, 0, auto;
+  flex: 2 0 auto;
   justify-content: flex-start;
 }
 
@@ -54,8 +26,42 @@ body {
   margin: 2rem 0;
 }
 
+.footer {
+  background: $headingColour;
+  color: $captionColour;
+  a {
+    color: $white;
+  }
+  h1, h2, h3, h4,h5, h6, h7 {
+    color: $captionColour;
+  }
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 2rem;
+  div {
+    padding: 0.5rem;
+  }
+}
+
+#dansesuisse {
+  height: 4rem;
+}
+
 hr {
   width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+  color: $headingColour;
 }
 
 // Links, icons and images
