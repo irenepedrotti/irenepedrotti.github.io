@@ -137,8 +137,6 @@ a:hover:focus {
 .navbar {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
-  height: 8rem;
   padding: 2rem 0rem 1rem 0;
   align-items: flex-end;
 }
@@ -164,4 +162,17 @@ a:hover:focus {
 
 .item--current {
   font-weight: map-get($bodytype, bold);
+}
+
+/* Some adjustments for phone screens */
+
+@media (max-width: 630px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .footer-container {
+    flex-direction: column;
+  }
 }
