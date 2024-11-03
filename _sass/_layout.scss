@@ -1,6 +1,6 @@
 body {
-  background: $backgroundColour;
-  color: $bodyColour;
+  background: $backgroundColor;
+  color: $bodyColor;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,13 +27,13 @@ body {
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: $captionBackgroundColor;
+  color: $captionColor;
   a {
-    color: $white;
+    color: $captionLinkColor;
   }
   h1, h2, h3, h4,h5, h6, h7 {
-    color: $captionColour;
+    color: $captionColor;
   }
 }
 
@@ -61,7 +61,7 @@ h4,
 h5,
 h6,
 h7 {
-  color: $headingColour;
+  color: $headingColor;
 }
 
 // Links, icons and images
@@ -90,8 +90,8 @@ a:hover:focus {
 }
 
 ::selection {
-  background: $headingColour;
-  color: $backgroundColour;
+  background: $headingColor;
+  color: $backgroundColor;
   text-shadow: none;
 }
 
