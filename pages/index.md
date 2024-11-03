@@ -2,7 +2,6 @@
 layout: home
 title: Home
 permalink: /
-navbar_order: 0
 ---
 
 Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!
