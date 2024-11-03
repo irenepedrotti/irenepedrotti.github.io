@@ -5,15 +5,17 @@ permalink: /infos/
 navbar_order: 3
 ---
 
+## Allgemein
+
 Die SchülerInnen sollten pünktlich, bereits frisiert und in der erforderlichen Kleidung zum Unterricht erscheinen.
 
-### Frisuren
+## Frisuren
 
 Mädchen welche längeres Haar haben, müssen mit einem Dutt frisiert zum Unterricht erscheinen. Bei kurzen Haaren wird ein breites Haarband angezogen und mit Haarnadeln fixiert.
 
 Eine Anleitung zum frisieren finden sie unter anderem auch [auf YouTube](https://www.youtube.com/watch?v=9tP-7IIWRp8).
 
-### Ballettkleidung
+## Ballettkleidung
 
 Wir haben einheitliche Kleidung.
 

@@ -15,6 +15,8 @@ Studio Danceworks \
 Spalentorweg 20 \
 4051 Basel
 
+<!-- TODO: Link google maps -->
+
 ### Anfahrt ÖV
 
 Die nächste Haltestelle ist Spalentor. Sie ist mit der Tram 3 und den Bussen 30 und 33 erreichbar.
