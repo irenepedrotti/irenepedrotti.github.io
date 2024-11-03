@@ -20,6 +20,11 @@ slideshow_images:
   - "/assets/slideshow/slideshow3.jpg"
   - "/assets/slideshow/slideshow4.jpg"
 
+# Extra info for jekyll-seo-tag
+social:
+  links:
+    - https://www.instagram.com/ballettschule_pedrotti
+
 # Jekyll settings
 markdown: kramdown
 sass:
