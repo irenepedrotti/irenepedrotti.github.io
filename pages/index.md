@@ -6,7 +6,7 @@ permalink: /
 
 _Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!_
 
-> Neben dem vermitteln einer sauberen und anatomisch korrekten Technik, lege ich auch Wert auf den Spass am Tanzen und auf einen respektvollen Umgang mit den SchülerInnen. \\
+> Neben dem vermitteln einer anatomisch korrekten Technik, lege ich auch Wert auf den Spass am Tanzen und auf einen respektvollen Umgang mit den SchülerInnen. \\
 > -- Irene Pedrotti
 
 <!-- TODO: Rundes Bild -->
