@@ -19,6 +19,28 @@ slideshow_images:
   - "/assets/slideshow/slideshow2.jpg"
   - "/assets/slideshow/slideshow3.jpg"
   - "/assets/slideshow/slideshow4.jpg"
+gallery_images:
+  - "/assets/gallery/DSF5640.jpg"
+  - "/assets/gallery/DSF5879.jpg"
+  - "/assets/gallery/DSF6172.jpg"
+  - "/assets/gallery/R7B7933.jpg"
+  - "/assets/gallery/R7B8041.jpg"
+  - "/assets/gallery/R7B8304.jpg"
+  - "/assets/gallery/R7B8334.jpg"
+  - "/assets/gallery/R7B8467.jpg"
+  - "/assets/gallery/DSF5706.jpg"
+  - "/assets/gallery/DSF6094.jpg"
+  - "/assets/gallery/DSF6195.jpg"
+  - "/assets/gallery/R7B7984.jpg"
+  - "/assets/gallery/R7B8238.jpg"
+  - "/assets/gallery/R7B8322.jpg"
+  - "/assets/gallery/R7B8364.jpg"
+  - "/assets/gallery/R7B8479.jpg"
+  - "/assets/gallery/R7B8518.jpg"
+  - "/assets/gallery/R7B8522.jpg"
+  - "/assets/gallery/R7B7879.jpg"
+  - "/assets/gallery/R7B7880.jpg"
+  - "/assets/gallery/R7B8491.jpg"
 
 # Extra info for jekyll-seo-tag
 social:
