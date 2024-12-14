@@ -13,6 +13,11 @@
     <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
     <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
 
+    <!-- See https://graphicdesign.stackexchange.com/a/69969 -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" href="{{ "/assets/favicon_196.png" | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ "/assets/favicon_180.png" | relative_url }}">
+
     {% if site.css_inline == true %}
       {% include site-styles.html %}
     {% else %}
