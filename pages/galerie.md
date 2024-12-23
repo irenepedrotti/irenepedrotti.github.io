@@ -3,6 +3,7 @@ layout: page
 title: Galerie
 permalink: /galerie/
 navbar_order: 4
+description: Bildergalerie mit Fotos aus dem Ballettunterricht.
 ---
 
 <aside>

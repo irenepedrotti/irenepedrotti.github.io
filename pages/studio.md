@@ -3,6 +3,7 @@ layout: page
 title: Studio
 permalink: /studio/
 navbar_order: 5
+description: Informationen zum Studio wo der Unterricht stattfindet.
 ---
 
 <!-- TODO: Bild -->

@@ -3,6 +3,7 @@ layout: page
 title: Über mich
 permalink: /about/
 navbar_order: 2
+description: Etwas zu Irene Pedrotti der Lehrerin.
 ---
 
 <!-- TODO: trim down and add picture -->

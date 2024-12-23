@@ -3,9 +3,6 @@ encoding: utf-8
 lang: de
 title: "Ballettschule Irene Pedrotti"
 tagline: "Ballettunterricht für Kinder"
-description: |
-  Die Ballettschule von Irene Pedrotti in Basel bietet Ballettunterricht
-  für Kinder in allen Altersstufen an.
 url: "https://www.ballettschule-irenepedrotti.ch"
 baseurl: ""
 repo: "https://github.com/irenepedrotti/irenepedrotti.github.io"

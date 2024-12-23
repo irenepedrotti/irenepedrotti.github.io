@@ -2,6 +2,9 @@
 layout: home
 title: Home
 permalink: /
+description: |
+  Die Ballettschule von Irene Pedrotti in Basel bietet Ballettunterricht
+  für Kinder in allen Altersstufen an.
 ---
 
 _Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!_

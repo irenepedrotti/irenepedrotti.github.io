@@ -3,6 +3,7 @@ layout: page
 title: Kurse
 permalink: /kurse/
 navbar_order: 1
+description: Information zu den einzelnen Kursen und zum Stundenplan.
 ---
 
 Die verbindlichen Informationen, inklusive Preise, finden sie im [Anmeldeformular](/assets/AnmeldeFormular.pdf).

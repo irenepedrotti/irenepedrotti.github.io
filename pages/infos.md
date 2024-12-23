@@ -3,6 +3,7 @@ layout: page
 title: Infos
 permalink: /infos/
 navbar_order: 3
+description: Informationen zum Ballettunterricht für SchülerInnen und Eltern.
 ---
 
 ## Allgemein
