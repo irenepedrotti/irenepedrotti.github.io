@@ -21,6 +21,6 @@ Es hat noch freie Plätze im neuen Kinder Ballett Einsteigerkurs ab 8 Jahren, am
 
 ## Kurse
 
-Details zu den Kursen (Studenplan, Niveaus, Anmeldung) finden Sie bei [Kurse](/kurse).
+Details zu den Kursen (Studenplan, Niveaus, Anmeldung) finden Sie bei [Kurse](/kurse/).
 
 Probelektionen sind jederzeit möglich. Setzen sie sich dafür per Email ([{{ site.email }}](mailto:{{ site.email }})) oder Telefon ([{{ site.phone_human }}](tel:{{ site.phone }})) mit mir in Kontakt.
