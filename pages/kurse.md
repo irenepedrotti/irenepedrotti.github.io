@@ -12,7 +12,7 @@ Bei Interesse kann jederzeit eine Probelektion vereinbart werden.
 
 ## Studenplan
 
-![Studenplan](/assets/studenplan.png)
+![Studenplan](/assets/stundenplan.png)
 
 ## Niveaus
 
