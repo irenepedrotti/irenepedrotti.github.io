@@ -1,13 +1,13 @@
-<div class="slideshow-container">
+<div class="slideshow">
   {% for image in site.slideshow_images %}
-    <div class="slides">
-      <img class="slide" src="{{image}}">
+    <div class="slideshow__slides">
+      <img class="slideshow__slide" src="{{image}}">
     </div>
   {% endfor %}
 
-  <div class="slidesnav">
+  <div class="slideshow__nav">
     {% for slide in site.slideshow_images %}
-      <span class="dot" onclick="showSlide({{ forloop.index0 }})"></span>
+      <span class="slideshow__dot" onclick="showSlide({{ forloop.index0 }})"></span>
     {% endfor %}
   </div>
 </div>
@@ -29,8 +29,8 @@
 
   function showSlide(n) {
     slideIndex = n;
-    let dots = document.getElementsByClassName("dot");
-    let slides = document.getElementsByClassName("slide");
+    let dots = document.getElementsByClassName("slideshow__dot");
+    let slides = document.getElementsByClassName("slideshow__slide");
     if (slideIndex >= slides.length) {
       slideIndex = 0;
     };
@@ -39,9 +39,9 @@
     };
     for (let i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
-      dots[i].className = dots[i].className.replace(" dot-active", "");
+      dots[i].className = dots[i].className.replace(" slideshow__dot--active", "");
     }
     slides[slideIndex].style.display = "block";
-    dots[slideIndex].className += " dot-active";
+    dots[slideIndex].className += " slideshow__dot--active";
   }
 </script>
