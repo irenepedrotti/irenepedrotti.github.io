@@ -29,10 +29,22 @@ body {
 .footer {
   background: $captionBackgroundColor;
   color: $captionColor;
+
   a {
     color: $captionLinkColor;
+
+    &:visited {
+      color: $captionLinkColor;
+    }
   }
-  h1, h2, h3, h4,h5, h6, h7 {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  h7 {
     color: $captionColor;
   }
 }
@@ -41,6 +53,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin: 0rem 0rem;
+
   div {
     padding: 0.5rem 0rem;
   }
@@ -64,11 +77,16 @@ h7 {
   color: $headingColor;
 }
 
-// Links, icons and images
-a .icon {
-  transition: fill .1s;
+a {
+  color: $linkColor;
+
   &:hover {
-    fill: currentColor;
+    color: $hoverLinkColor;
+    outline: none;
+
+    &:visited {
+      color: $hoverLinkColor;
+    }
   }
 }
 
@@ -76,17 +94,12 @@ a .icon {
   vertical-align: middle;
   width: 1.1em;
   height: 1.1em;
-  fill: CurrentColor;
+  fill: currentColor;
 }
 
-// Media content
 img {
   max-width: 100%;
   height: auto;
-}
-
-a:hover:focus {
-  outline: none;
 }
 
 ::selection {
@@ -176,6 +189,7 @@ a:hover:focus {
 @media (max-width: 680px) {
   .nav__logo {
     flex-basis: 100%;
+
     img {
       width: 14rem;
     }
