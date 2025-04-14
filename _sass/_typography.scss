@@ -14,13 +14,13 @@ body {
 /*
  * Show baseline grid
  *
- * Can be added to the html tag as a debugging crutch.
+ * Comment in as a debugging crutch.
  */
-html.show-grid body {
-  background-image: linear-gradient(to bottom, #0ff 0, transparent 1px);
-  background-repeat: repeat-y;
-  background-size: 100% 1rem;
-}
+// html body {
+//   background-image: linear-gradient(to bottom, #0ff 0, transparent 1px);
+//   background-repeat: repeat-y;
+//   background-size: 100% 1rem;
+// }
 
 /* Set headings to baseline */
 h1,
@@ -130,29 +130,10 @@ h3+.caption {
   max-width: 35%;
 }
 
-code,
-pre {
-  font-family: var(--code-fonts);
-}
-
-pre {
-  background-color: rgba(245, 245, 215, 0.5);
-  display: block;
-  margin-bottom: 2rem;
-  padding: 1rem;
-  white-space: pre;
-  white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
-}
-
-code {
-  line-height: 1rem;
-}
-
 blockquote {
   p {
-    border-left: 0.15rem solid $captionBackgroundColor;
+    border-left-width: 0.15rem;
+    border-left-style: solid;
     font-style: map-get($bodytype, italic);
     padding-left: 1rem;
     padding-bottom: calc(calc(var(--beneath) * 1rem) - calc(calc(calc(var(--baselines) * 1rem) - 1cap) / 2));
@@ -173,6 +154,7 @@ i {
 ul,
 ol {
   li {
+
     ol,
     ul {
       padding-top: 1rem;
@@ -266,5 +248,4 @@ hr {
 
 a {
   text-decoration: none;
-  color: $linkColor;
 }

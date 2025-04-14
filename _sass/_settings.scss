@@ -1,24 +1,25 @@
 // Palette
-$white: #ffffff;
-$french_gray: #C8CFDF;
-$marian_blue: #254184;
-$oxford_blue: #050E24;// #131E3A;
-$night: #131112;
+$light: #ffffff;
+$dark: #302D32;
 
-$zomp: #43AA8B;
-$crayola: #EF3054;
-$bittersweet: #FF6F59;
+$blue: #2E489E;
+$red: #EE3140;
+$dark_green: #658583;
+$light_green: #9DD4B2;
+$rose: #DCAFD1;
+$drab: #BDBFB1;
 
 // Background colors
-$backgroundColor: $white;
-$captionBackgroundColor: $oxford_blue;
+$backgroundColor: $light;
+$captionBackgroundColor: $dark;
 
 // Text colors
-$headingColor: $night;
-$bodyColor: $night;
-$linkColor: $marian_blue;
-$captionColor: $french_gray;
-$captionLinkColor: $crayola;
+$headingColor: $dark;
+$bodyColor: $dark;
+$linkColor: $blue;
+$hoverLinkColor: $red;
+$captionColor: $drab;
+$captionLinkColor: $light_green;
 
 // Typography
 $bodytype: (
