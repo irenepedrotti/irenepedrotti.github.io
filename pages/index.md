@@ -16,7 +16,7 @@ _Willkommen auf der Seite der Ballettschule von Irene Pedrotti in Basel!_
 
 ## Aktuelles
 
-Neuer Kinderballettkurs für Kinder ab 5 Jahren, Donnerstag 8. Mai 2025 um 16°° Uhr.
+Neuer Kinderballettkurs für Kinder ab 5 Jahren, Donnerstag 21. August 2025 um 16°° Uhr.
 
 Bitte Anmeldungen per Mail oder Telefon.
 
