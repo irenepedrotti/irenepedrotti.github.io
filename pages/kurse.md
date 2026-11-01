@@ -10,9 +10,9 @@ Die verbindlichen Informationen, inklusive Preise, finden sie im [Anmeldeformula
 
 Bei Interesse kann jederzeit eine Probelektion vereinbart werden.
 
-## Studenplan
+## Stundenplan
 
-![Studenplan](/assets/stundenplan.png)
+![Stundenplan](/assets/stundenplan.png)
 
 ## Niveaus
 
